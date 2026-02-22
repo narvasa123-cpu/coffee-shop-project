@@ -39,7 +39,7 @@ Welcome to the CoffeeShop E-Commerce Website, a sample React application showcas
 1. Clone the repository:
 
 ```
-git clone https://github.com/dev-zha/coffee-shop.git
+git clone https://github.com/narvasa123-cpu/coffee-shop-project.git
 ```
 
 2. Install dependencies:
@@ -71,5 +71,6 @@ yarn dev
 ## Contributors
 
 - Zaw Htet Aung
+- narvasa123-cpu
 
 Feel free to contribute, report issues, or suggest improvements. Happy coding!
